@@ -2,6 +2,10 @@
 
 A simple Connect4 game with a GUI and an AI opponent.
 
+## Demo
+
+https://github.com/frostyy22/Connect4/assets/139463255/51a75645-e353-4f35-92e4-09636769931a
+
 ## Core Game
 
 The game is a classic Connect 4, where the objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
